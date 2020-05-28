@@ -1,2 +1,0 @@
-this is my another file
-name is file3.txt
